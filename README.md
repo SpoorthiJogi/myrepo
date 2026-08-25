@@ -1,3 +1,3 @@
-# My Repository
+## Workshop
 
-This change was made from my Ubuntu computer.
+This section was added through a feature branch and pull request.
